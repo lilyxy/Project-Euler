@@ -14,6 +14,4 @@ for i in range (1, lim):
     if count > longest:
         longest = count;
         number = i;
-        print longest, number
-
 print longest, number
