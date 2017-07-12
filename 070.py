@@ -31,5 +31,5 @@ for i in range(0, length):
                 minval = val;
                 minn = p*q;
                 #print(p, q, p*q, minval);
-
+ 
 print(minn);
